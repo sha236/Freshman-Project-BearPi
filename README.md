@@ -14,7 +14,3 @@ Folders:
 
 Others:
 It requies a MQTT blocker server to run.
-
-
-
-CanonYes's test
